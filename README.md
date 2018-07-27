@@ -24,7 +24,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 - read and understand the [license.md](https://www.gnu.org/licenses/gpl-3.0)
 - download and unzip the content provider package
 - copy the complete folder `folder-extended/` into the directory `/administrator/components/com_widgetkit/plugins/content/` of your installation
-- access the YOOtheme Pro Page Builder, the custom elements should now be available
+- access the Widgetkit component in your Joomla backend, the custom content provider should now be available
+- note that the path entered into the _Folder_ field should end with a slash `/`, e.g. `images/myfolder/`
 
 ## Issues
 
