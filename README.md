@@ -27,7 +27,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## Issues
 
-Please report issues using the [Github Issue tool](https://github.com/forrestkirby/folder-extended/issues).
+Please report issues using the [Github Issue tool](../../issues).
 
 ## About
 
