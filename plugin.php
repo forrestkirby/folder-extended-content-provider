@@ -76,7 +76,7 @@ return array(
                 }
             } else {
 
-                if (!$files = glob($dir.'/'.$folder.'/*')) {
+                if (!$files = glob($pattern)) {
                     return;
                 }
 
