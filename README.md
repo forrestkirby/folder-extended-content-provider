@@ -23,7 +23,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 - read and understand the [license.md](https://www.gnu.org/licenses/gpl-3.0)
 - download and unzip the content provider package
-- copy the complete folder `folder-extended/` into the directory _/administrator/components/com_widgetkit/plugins/content/_ of your installation
+- copy the complete folder `folder-extended/` into the directory `/administrator/components/com_widgetkit/plugins/content/` of your installation
 - access the YOOtheme Pro Page Builder, the custom elements should now be available
 
 ## Issues
