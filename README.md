@@ -3,6 +3,7 @@
 An extended version of the folder content provider of Widgetkit 2 which allows to include subfolders
 
 Copyright (c) 2007-2018 YOOtheme GmbH, yootheme.com
+
 Copyright (c) 2018 [forrestkirby](https://github.com/forrestkirby)
 
 This program is free software: you can redistribute it and/or modify
