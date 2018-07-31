@@ -73,7 +73,17 @@ return array(
 
                 if (!$files = glob_recursive($pattern)) {
                     return;
+                } else {
+                    usort($files, function($a, $b) {
+                        $al = basename($a);
+                        $bl = basename($b);
+                        if ($al == $bl) {
+                            return 0;
+                        }
+                        return ($al > $bl) ? +1 : -1;
+                    });
                 }
+
             } else {
 
                 if (!$files = glob($pattern)) {
