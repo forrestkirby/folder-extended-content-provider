@@ -51,6 +51,7 @@ return array(
             $pttrn  = '/\.('.implode('|', $extensions).')$/i';
             $dir    = dirname(dirname(dirname( $app['path'] ))); // TODO: cleaner? system agnostic?
             $sort   = explode('_', $content['sort_by'] ?: 'filename_asc');
+            $pattern = $dir.'/'.$folder.'/*';
 
             if ($content['include_subfolders']) {
                 if ( ! function_exists('glob_recursive'))
@@ -70,7 +71,6 @@ return array(
                     }
                 }
 
-                $pattern = $dir.'/'.$folder.'/*';
                 if (!$files = glob_recursive($pattern)) {
                     return;
                 }
