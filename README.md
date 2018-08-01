@@ -1,4 +1,4 @@
-# Folder Extended
+# Folder Extended Content Provider
 
 An extended version of the folder content provider of Widgetkit 2 which allows to include subfolders
 
