@@ -21,7 +21,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## Installation
 
-- read and understand the [license.md](https://www.gnu.org/licenses/gpl-3.0)
 - download and unzip the content provider package
 - copy the complete folder `folder-extended/` into the directory `/administrator/components/com_widgetkit/plugins/content/` (J) or `/wp-content/plugins/widgetkit/plugins/content/` (WP) of your CMS installation
 - access Widgetkit in your Joomla/WordPress backend, the custom content provider should now be available
