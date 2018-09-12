@@ -1,6 +1,6 @@
 <!--
  @author    YOOtheme http://www.yootheme.com, adapted by forrestkirby https://github.com/forrestkirby
- @copyright (c) 2007-2018 YOOtheme GmbH yootheme.com, 2018 forrestkirby github.com/forrestkirby
+ @copyright (C) 2007-2018 YOOtheme GmbH yootheme.com, 2018 forrestkirby github.com/forrestkirby
  @license   http://www.gnu.org/licenses/gpl.html GNU/GPL
 -->
 
