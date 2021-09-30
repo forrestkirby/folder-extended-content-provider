@@ -1,5 +1,7 @@
 # Folder Extended Content Provider
 
+*With the [release of Widgetkit 3](https://yootheme.com/blog/2021/01/26/widgetkit-3.0-completely-rebuilt-with-uikit-3) this repo is archived*
+
 An extended version of the folder content provider of Widgetkit 2 which allows to include subfolders
 
 Copyright (C) 2007-2018 YOOtheme GmbH yootheme.com, 2018 forrestkirby github.com/forrestkirby
